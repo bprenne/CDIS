@@ -11,6 +11,7 @@
 | `H109` | Conjunctivitis (Pink Eye) |
 | `H669` | Otitis Media (Ear Infection) |
 | `I100` | Hypertension (High Blood Pressure) |
+| `I4890` | Atrial Fibrillation (Afib) | 
 | `J029` | Pharyngitis (Sore Throat) |
 | `J069` | Upper Respiratory Tract Infection (URTI) |
 | `J209` | Acute Bronchitis |
