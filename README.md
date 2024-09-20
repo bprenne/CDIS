@@ -1,5 +1,7 @@
 # Canadian Discharge Instruction Set (CDIS)
 
+## Conditions with Patient Discharge Instructions (PDIs)
+
 | **ICD-10-CA Code** | **Condition** |
 | :- | :- |
 | A099 | Gastroenteritis (Stomach Flu) |
@@ -30,3 +32,18 @@
 | T784 | Allergic Reaction (Mild to Moderate) |
 
 ICD-10-CA code list: [Cancer Care Ontario's Data Book 2022-2023](https://ext.cancercare.on.ca/ext/databook/db2223/Appendix/Appendix_1.18_-_ICD10CA_.htm)
+
+## Languages
+
+| Language  | ISO 639-3 Code |
+| - | - |
+| Cantonese | yue |
+| Cree      | cre |
+| English   | eng |
+| French    | fra |
+| Mandarin  | cmn |
+| Ojibwe    | oji |
+| Punjabi   | pan |
+| Spanish   | spa |
+
+[ISO 639-3 Code List](https://iso639-3.sil.org/code_tables/639/data)
