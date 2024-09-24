@@ -29,7 +29,7 @@
 | `S52590` | Fracture of Distal Radius (Forearm) |
 | `T141` | Laceration (Cut) |
 | `T300` | Minor Burns |
-| `T784` | Anaphylaxis |
+| `T782` | Anaphylaxis |
 | `T784` | Allergic Reaction (Mild to Moderate) |
 
 ICD-10-CA code list: [Cancer Care Ontario's Data Book 2022-2023](https://ext.cancercare.on.ca/ext/databook/db2223/Appendix/Appendix_1.18_-_ICD10CA_.htm)
