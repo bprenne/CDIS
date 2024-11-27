@@ -8,6 +8,9 @@
 ## How can I stop a nosebleed at home?
 - Lean your head forward so blood doesn't run down your throat.
 - Pinch your nose closed hard on both sides. You pinch on the soft lower part of your nose, not the hard upper part.
+
+  ![Pinching properly](https://dl.dropbox.com/scl/fi/f8pj79245jrvkcevdrifh/nose.jpeg?rlkey=ac54mb9usvjiqtnoajoe7jios&st=kzj7e4eb&dl=1)
+
 - Pinch for at least 15 minutes straight. Don't stop early to check because then it might not stop bleeding.
 - If it doesn't stop bleeding after 15 minutes, try pinching again for another 15 minutes.
 - If it stops, avoid blowing your nose hard, heavy lifting, or straining for at least 1 day.
