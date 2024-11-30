@@ -1,4 +1,4 @@
-# Anaphylaxis
+# Anaphylaxis (serious allergic reaction)
 
 ## What is wrong?
 - Anaphylaxis ("an-uh-fuh-LAK-sis") is a dangerous allergic reaction. It can be deadly.
