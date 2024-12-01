@@ -20,4 +20,6 @@ See your family doctor if you are experiencing any of the following:
 
 - Follow up with your primary care provider in 1 week.
 
+---
+
 Source: Adapted from the instruction sheet by [Emergency Care BC](http://www.bcemergencynetwork.ca/clinical_resource/abscess/), [Creative Commons License CC BY NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
