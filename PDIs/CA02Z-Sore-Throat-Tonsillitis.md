@@ -32,4 +32,6 @@ A sore throat is painful, with the throat often red and swollen. It is either a 
 
 - Follow up with your primary care provider in 1 week.
 
+---
+
 Source: Adapted from the instruction sheet by [BC Emergency Medicine Network](http://www.bcemn.ca/clinical_resource/sore-throat), [Creative Commons License CC BY NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
