@@ -51,4 +51,6 @@ If you are older than 50, talk with your doctor any time you have new rectal ble
 
 - Follow up with your primary care provider in 1 week.
 
+---
+
 Source: Adapted from the instruction sheet by [BC Emergency Medicine Network](http://www.bcemn.ca/clinical_resource/gastrointestinal-bleed/), [Creative Commons License CC BY NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
