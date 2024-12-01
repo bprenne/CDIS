@@ -52,4 +52,6 @@ For further information on caring for your stitches, refer to the ECBC Wound Car
 
 - Follow up with your primary care provider in 1 week.
 
+---
+
 Source: Adapted from the instruction sheet by [Emergency Care BC](https://emergencycarebc.ca/clinical_resource/patient-information-sheet/animal-and-human-bites/), [Creative Commons License CC BY NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
