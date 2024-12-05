@@ -10,9 +10,7 @@ In order for an abscess to heal it needs to be open so that the pus can drain ou
 - After 24 hours you may change the bandage. If the bandage is stuck to the wound, use warm water to soak it off. You should gently clean around the wound with warm water and soap before applying a new bandage.
 - Change your bandage daily until the abscess is healed.
 
-## When to Get Help
-
-See your family doctor if you are experiencing any of the following:
+## See your family doctor if you are experiencing any of the following:
 
 - Increased temperature or fever.
 - The wound is no longer draining and is increasing in pain and size.
