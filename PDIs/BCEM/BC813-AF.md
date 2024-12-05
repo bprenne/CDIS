@@ -48,7 +48,6 @@ Certain conditions make people more likely to develop AF:
 
 ## How Is AF Diagnosed?
 
-AF is diagnosed through:
 - **Electrocardiogram (ECG/EKG)**: Identifies arrhythmia.
 - **Echocardiogram**: Ultrasound image showing heart structure and valve abnormalities.
 - **Blood tests**.
@@ -57,6 +56,8 @@ AF is diagnosed through:
 ## Is AF Harmful or Dangerous?
 
 AF is usually not life-threatening, but it can lead to serious complications, including:
+
+
 - **Stroke**: A sudden lack of blood flow to the brain caused by blood clots.
 - **Heart failure**: The heart’s inability to pump blood effectively, leading to congestion in the lungs and tissues.
 - **Decreased quality of life**: Symptoms may prevent normal activities and require frequent emergency care visits.
