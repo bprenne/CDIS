@@ -19,7 +19,7 @@ Pericarditis is a condition where the pericardium, the thin sac surrounding the 
 - Cough or nausea.
 
 ## Diagnosis
-Pericarditis is diagnosed through:
+
 - **Heart and lung sounds**: A 'grating' or 'rubbing' sound may be heard with a stethoscope.
 - **Tests**:
   - **Chest X-ray**: Checks for fluid buildup or an enlarged heart.
