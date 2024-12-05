@@ -13,6 +13,7 @@ In order for an abscess to heal it needs to be open so that the pus can drain ou
 ## When to Get Help
 
 See your family doctor if you are experiencing any of the following:
+
 - Increased temperature or fever.
 - The wound is no longer draining and is increasing in pain and size.
 
