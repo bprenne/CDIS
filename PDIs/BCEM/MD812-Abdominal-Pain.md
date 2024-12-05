@@ -12,9 +12,8 @@ There are many reasons for abdominal pain, not all of which are easily diagnosed
   - Alcohol, milk, or drinks with caffeine (e.g., coffee, cola, tea, Red Bull, etc.).
 - Take the medicines the Emergency doctor has recommended you take.
 
-## When to Get Help
+## Go to the nearest Emergency Department if you have any of the following new issues:
 
-Go to the nearest Emergency Department if you are experiencing any of the following new issues:
 - Pain getting worse despite home care, or it is now only in one specific area.
 - New pain in your chest, neck, or shoulder.
 - Difficulty breathing, and this is new for you.
