@@ -23,9 +23,8 @@ With appropriate treatment, the infection should improve. Treatment may involve 
   - Wash your hands before and after caring for the infected area.
   - When changing the bandage at home, wrap the old bandage in a plastic bag and dispose of it in the garbage.
 
-## When to Get Help
+## Go to the nearest Emergency Department if you experience:
 
-Go to the nearest Emergency Department if you experience:
 - Severe or worsening pain.
 - Blisters or dark purple areas on the skin.
 - Red streaks coming from the infected area or an increase in redness size.
