@@ -23,9 +23,8 @@ Most people recover from Bell’s palsy within three to six months. Younger indi
   - Brush and floss your teeth frequently to prevent gum disease or tooth decay.
   - Eat slowly, chew food well, and consider soft, smooth foods like yogurt to avoid swallowing difficulties.
 
-## When to Get Help
+## Go to the nearest Emergency Department if you experience:
 
-Go to the nearest Emergency Department if you experience:
 - Fever and headache.
 - New neurological symptoms, such as changes in your arms, legs, the other side of your face, or balance.
 
