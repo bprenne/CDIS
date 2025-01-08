@@ -7,6 +7,7 @@ AF affects everyone differently. Some people with a fast heart rate may feel unw
 ## Symptoms of AF
 
 With AF, the heart pumps quickly and irregularly, causing various symptoms:
+
 - Palpitations or feeling like your heart is racing.
 - Feeling very tired or having no energy.
 - An irregular heartbeat or pulse rate.
@@ -25,6 +26,7 @@ Some people have no symptoms, and AF may only be detected by a healthcare provid
 ## Common Causes of AF
 
 Certain conditions make people more likely to develop AF:
+
 - High blood pressure.
 - Heart valve disease.
 - Diseases of the heart muscle (e.g., congestive heart failure).
@@ -56,7 +58,6 @@ Certain conditions make people more likely to develop AF:
 ## Is AF Harmful or Dangerous?
 
 AF is usually not life-threatening, but it can lead to serious complications, including:
-
 
 - **Stroke**: A sudden lack of blood flow to the brain caused by blood clots.
 - **Heart failure**: The heart’s inability to pump blood effectively, leading to congestion in the lungs and tissues.
