@@ -13,10 +13,12 @@ If the angina pain changes or pain in your chest is new or different (crushing, 
 ## Symptoms
 
 You could be having a heart attack if you experience:
+
 - A crushing or squeezing feeling in the chest.
 - A heavy weight on the chest.
 
 You may also notice any of these symptoms:
+
 - Pain spreading to the arm, shoulder, neck, and jaw.
 - Stomach or belly pain.
 - Sweating.
@@ -33,10 +35,12 @@ If you have been told you have angina and you and your care provider have made a
 ## When to Get Help
 
 ### Call 9-1-1 if you are experiencing any of the following:
+
 - Your current symptoms do not go away or get worse following your home treatment plan.
 - You are having new and different chest pain than you are used to, or any of the other symptoms listed.
 
 ### Call 8-1-1 or see your family doctor if:
+
 - You are not sure how to follow your home treatment plan.
 
 ## Recommended Follow-Up
