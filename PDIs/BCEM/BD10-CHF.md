@@ -13,14 +13,18 @@ Managing congestive heart failure (CHF) requires daily monitoring and lifestyle 
 ## Which Heart Failure Zone Are You Today?
 
 ### Green Zone – **All Clear**  
+
 This zone is your goal! Your symptoms are under control if you:
+
 - Have no shortness of breath.
 - Have no chest discomfort, pressure, or pain.
 - Have no swelling or increased swelling in your feet, ankles, legs, or stomach.
 - Have not gained more than 4 lbs (2 kg) over 2 days in a row or 5 lbs (2.5 kg) in 1 week.
 
 ### Yellow Zone – **Caution**  
+
 Call your healthcare provider or 811 if you have any of the following:
+
 - Gain more than 4 lbs (2 kg) over 2 days in a row or 5 lbs (2.5 kg) in 1 week.
 - Have vomiting and/or diarrhea lasting more than 2 days.
 - Feel more short of breath than usual.
@@ -33,7 +37,9 @@ Call your healthcare provider or 811 if you have any of the following:
 - Need more pillows or have to sit up in a chair to sleep.
 
 ### Red Zone – **Emergency**  
+
 Go to the emergency room or call 911 if you experience:
+
 - Struggling to breathe.
 - Shortness of breath that does not go away while sitting still.
 - A fast heartbeat that does not slow down with rest.
