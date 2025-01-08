@@ -1,6 +1,7 @@
 # Corneal Abrasion
 
 A corneal abrasion is a common injury that occurs when the clear covering of the front part of the eye is scratched or poked. Common causes include tree branches, fingernails, mascara brushes, hair brushes, contact lenses, and paper edges. Symptoms include:
+
 - Eye pain.
 - A sensation of something in the eye or under the lid.
 - Watery eye.
@@ -19,6 +20,7 @@ Small corneal abrasions usually heal within 1–2 days. Larger or deeper abrasio
 ## When to Get Help
 
 Go to the nearest Emergency Department or Urgent Care if:
+
 - Your eye pain worsens.
 - Your vision deteriorates.
 - You develop a fever.
