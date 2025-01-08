@@ -3,6 +3,7 @@
 Follow these steps to remove your stitches safely:
 
 ## Steps for Removal
+
 1. Prepare your supplies (bandages, tweezers, scissors, etc.).
 2. Wash your hands thoroughly with soap and water.
 3. Gently clean the stitches and wound area with warm soapy water and a clean facecloth.
@@ -15,6 +16,7 @@ Follow these steps to remove your stitches safely:
 10. Pat the area dry.
 
 ## After Removing the Stitches
+
 - **Day 1**: Place a bandage over the area and leave it on for a day.
 - **Day 2**: Remove the bandage, check the area for healing or signs of infection, and apply a clean bandage for another day.
 - **Day 3**: Remove the bandage and leave the area uncovered.
@@ -22,10 +24,13 @@ Follow these steps to remove your stitches safely:
 **Important**: Wash your hands before and after every bandage change.
 
 ## What to Expect
+
 - A small amount of bleeding from where the stitch came through the skin is normal.
 
 ## When to Get Help
+
 See your family doctor if:
+
 - You cannot remove all stitches or notice pieces of stitches remaining.
 - Bleeding persists for more than 30 minutes.
 - The wound reopens and is more than ¼ inch (0.5 cm) wide.
@@ -33,6 +38,7 @@ See your family doctor if:
 - The skin around the wound becomes red, hot, and sore to touch.
 
 ## Recommended Follow-Up
+
 - Follow up with your primary care provider if you have any concerns.
 
 ---
