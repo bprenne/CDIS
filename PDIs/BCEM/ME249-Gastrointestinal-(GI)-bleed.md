@@ -14,6 +14,7 @@ The blood is digested as it moves through your digestive tract. The longer it ta
 - **Red or dark red stool**: Blood that has moved quickly through the digestive tract.
 
 Small amounts of bright red blood on the surface of the stool or toilet paper may result from:
+
 - Anal fissures or hemorrhoids.
 - Irritation from diarrhea or straining during bowel movements.
 
@@ -24,12 +25,14 @@ This is not serious if there is only a small amount of blood and if the bleeding
 Follow these instructions and take any prescribed medicines:
 
 ### Things to Stay Away From:
+
 - **Non-steroid anti-inflammatory drugs** (e.g., ibuprofen): Can irritate the stomach, erode the gut lining, and thin the blood.
 - **Alcohol**: Can damage the liver, thin the blood, and irritate the stomach.
 - **Smoking**: Can damage the lining of the throat and stomach.
 - **Caffeine**: Increases stomach acid production. Examples include coffee (including decaf), tea, cola drinks, chocolate, and other caffeinated foods and drinks.
 
 ### Things to Reduce Your Risk of a Bleed:
+
 - Eat small meals more frequently.
 - Check with your pharmacist before taking any over-the-counter medicines.
 - Reduce stress, as greater stress increases the risk.
@@ -37,11 +40,14 @@ Follow these instructions and take any prescribed medicines:
 ## When to Get Help
 
 Go to the nearest Emergency Department or see your family doctor if you experience any of the following:
+
 - Stools are black and tarry.
 - Stools are bright red or dark red.
 
 ### Note:
+
 Some foods and medicines can change the stool's appearance:
+
 - **Black stool**: May result from bismuth subsalicylate (e.g., Pepto-Bismol) or iron tablets.
 - **Red stool**: May result from eating beets.
 
