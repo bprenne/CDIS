@@ -3,6 +3,7 @@
 Asthma occurs when the airways (breathing tubes) in your lungs become swollen and irritated, making it difficult to breathe. 
 
 No one knows what causes asthma, but it can be triggered by:
+
 - An allergy (e.g., dust, mold, pollen, animal dander).
 - An irritant (e.g., smoke, pollution, strong fumes, perfume).
 - A reaction to a medicine.
@@ -14,6 +15,7 @@ No one knows what causes asthma, but it can be triggered by:
 Once you have asthma, it is a lifelong condition. Your family doctor can help you manage asthma, control it, and limit attacks.
 
 ### Tips for Living with Asthma:
+
 - Inform any new healthcare professional about your asthma.
 - Wear a medical identification tag (Medical Alert) to let others know about your asthma.
 
@@ -28,6 +30,7 @@ Once you have asthma, it is a lifelong condition. Your family doctor can help yo
 ## When to Get Help
 
 ### Call 9-1-1 if you:
+
 - Suddenly experience:
   - Shortness of breath.
   - Severe wheezing.
@@ -38,6 +41,7 @@ Once you have asthma, it is a lifelong condition. Your family doctor can help yo
 - Notice your lips or fingers turning blue.
 
 ### See your family doctor if you:
+
 - Are short of breath with activity.
 - Become wheezy when resting.
 - Find it hard to walk or talk due to breathing.
@@ -48,6 +52,7 @@ Once you have asthma, it is a lifelong condition. Your family doctor can help yo
 - Cannot sleep well because of breathing difficulties.
 
 ### Additional Tip:
+
 - Make an asthma action plan with your doctor. This plan outlines what you and others around you should do in case of a severe attack. Write it down and post copies at home, school, or work.
 
 ## Recommended Follow-Up
