@@ -5,6 +5,7 @@ Cuts, scratches, scrapes, and bruises are common injuries that typically heal on
 ## How to Care for Yourself at Home
 
 ### For Cuts, Scratches, and Scrapes:
+
 - Apply pressure for 20 minutes to stop any bleeding.
 - Clean the wound once daily with warm water.
 - Avoid using alcohol on open wounds, as it stings and damages tissue.
@@ -13,12 +14,14 @@ Cuts, scratches, scrapes, and bruises are common injuries that typically heal on
 - If using a bandage, change it daily or when it becomes dirty.
 
 ### For Bruises:
+
 - Use ice packs wrapped in a towel for 10–15 minutes to reduce bleeding under the skin and ease pain.
 - Elevate the injured area (e.g., place a limb on a pillow or footstool).
 
 ## When to Get Help
 
 See your family doctor or visit a walk-in clinic if:
+
 - Bleeding does not stop after 20 minutes of pressure.
 - Signs of infection appear:
   - Redness or swelling around the wound.
@@ -29,6 +32,7 @@ See your family doctor or visit a walk-in clinic if:
 - Red streaks appear on the skin around the wound.
 
 ## Recommended Follow-Up
+
 - Follow up with your primary care provider within the specified timeframe.
 
 ---
