@@ -22,6 +22,7 @@ Treatment for COPD works gradually over time and requires consistent management.
 ## When to Get Help
 
 Go to the nearest Emergency Department if:
+
 - You cannot speak a full sentence while sitting down.
 - Your shortness of breath worsens compared to when you left the ED.
 - You develop a fever (38.0°C/100.4°F or higher) after two days of taking antibiotics or have a new fever.
