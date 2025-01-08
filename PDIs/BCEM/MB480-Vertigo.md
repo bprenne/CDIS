@@ -3,11 +3,13 @@
 Vertigo is a common condition that causes the sensation of spinning or whirling. You may feel as if your head or the room is spinning. It can make standing or walking difficult and may cause nausea.
 
 ## Causes
+
 Vertigo has a variety of causes. Your doctor may arrange tests to determine the cause, but this is not always necessary. The focus is often on managing symptoms after a clinical assessment.
 
 ## How to Care for Yourself at Home
 
 When you feel unwell:
+
 - Lie down for a minute or two until the sensation passes.
 - Keep your head elevated on a pillow when lying down. Avoid lying flat on your back, as it may worsen vertigo.
 - Take slow, deep breaths.
@@ -18,13 +20,16 @@ When you feel unwell:
 - Try the Epley Maneuver if advised by your healthcare provider.
 
 ### Safety Tips
+
 For one (1) week after your symptoms resolve:
+
 - **DO NOT**:
   - Drive.
   - Operate large machinery.
   - Climb ladders or engage in activities involving height.
 
 To prevent falls or injuries:
+
 - Keep your home free of tripping hazards (e.g., rugs, electrical cords).
 - Use nonslip mats in the bath/shower.
 - Hold handrails when using stairs.
@@ -33,6 +38,7 @@ To prevent falls or injuries:
 ## When to Get Help
 
 ### Go to the Emergency Department if you experience:
+
 - Weakness or numbness in one arm or leg.
 - Inability to walk.
 - Double vision.
@@ -42,11 +48,13 @@ To prevent falls or injuries:
 - Persistent vomiting.
 
 ### See Your Family Doctor if:
+
 - Vertigo does not resolve after one week.
 - Vertigo comes and goes, affecting your daily activities.
 - You notice a change in your hearing.
 
 ## Recommended Follow-Up
+
 - Vestibular physiotherapy (if advised).
 - Follow up with your primary care provider within the specified timeframe.
 
