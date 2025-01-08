@@ -40,7 +40,9 @@ Pericarditis usually resolves within weeks or months with proper treatment.
 ## When to Get Help
 
 ### Emergency:
+
 Go to the nearest Emergency Department or call 9-1-1 if:
+
 - Severe chest pain does not improve with position changes or pain medicine.
 - Severe pain radiates to your left shoulder or neck.
 - You have difficulty breathing, even while resting.
