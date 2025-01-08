@@ -3,7 +3,9 @@
 Most headaches are temporary and caused by tension in the muscles of the forehead and back of the head, fatigue, eye strain, or emotional stress. Other causes include infection, injury, allergy, and disorders of the eyes, ears, or nose. Headaches that occur without other symptoms and resolve within hours are usually not a cause for concern.
 
 ### Migraine Headaches
+
 Migraine headaches are severe and throbbing, caused by narrowing and swelling of blood vessels in the head. Symptoms often include:
+
 - Nausea.
 - Vomiting.
 - Intolerance to light and noise.
@@ -25,12 +27,14 @@ Migraines may last hours to days. Treatment includes headache medications and av
 ## When to Get Help
 
 ### Go to the nearest Emergency Department if:
+
 - You are drowsy or mentally confused.
 - You have severe nausea and vomiting.
 - You experience numbness or weakness in your face, arms, or legs (especially one-sided).
 - You notice changes in vision or loss of vision.
 
 ### See your family doctor if:
+
 - Your headache worsens or lasts longer than usual.
 - You have a fever over 38.3°C (101°F) that does not improve with acetaminophen (Tylenol).
 - You have a stiff neck.
