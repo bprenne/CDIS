@@ -3,6 +3,7 @@
 Impetigo is a skin infection caused by **Staphylococcus aureus (staph)** or **Group A Streptococcus (strep)** bacteria. It is more common in children, particularly during summer, and often occurs when bacteria enter the skin through cuts, cold sores, insect bites, or eczema patches.
 
 ## Symptoms
+
 - Rash resembling small blisters or red bumps.
 - Blisters burst, releasing fluid that dries into a yellow or grey crust.
 - Rash often appears:
@@ -15,7 +16,9 @@ Impetigo is a skin infection caused by **Staphylococcus aureus (staph)** or **Gr
 With proper treatment, impetigo typically resolves in about 7 days.
 
 ## How is it Spread?
+
 Impetigo spreads easily through:
+
 - Skin-to-skin contact or touching contaminated surfaces.
 - Nasal discharge from an infected person.
 - Sharing towels, clothes, bedding, or personal items like combs.
@@ -23,9 +26,11 @@ Impetigo spreads easily through:
 Symptoms usually appear 1–10 days after exposure.
 
 ## Is Impetigo Serious?
+
 Impetigo is usually mild, causing occasional itching. Rarely, the bacteria can enter the bloodstream and cause kidney disease.
 
 ## How Can Parents Help?
+
 - **Keep your child at home**:
   - Prevent spreading impetigo at daycare, school, or camps.
   - Children can return after 24 hours of antibiotic treatment.
@@ -39,6 +44,7 @@ Impetigo is usually mild, causing occasional itching. Rarely, the bacteria can e
   - Encourage frequent handwashing.
 
 ## Treatment
+
 - Use antibiotic cream as prescribed. Oral antibiotics may be necessary for widespread rashes.
 - Complete the full antibiotic course, even if symptoms improve.
 - To clean crusts:
@@ -46,6 +52,7 @@ Impetigo is usually mild, causing occasional itching. Rarely, the bacteria can e
   - Wash gently with soap and water, then pat dry.
 
 ## When to Get Help
+
 - Contact your family doctor if you suspect your child has impetigo.
 - For severe symptoms, consult your healthcare provider promptly.
 
