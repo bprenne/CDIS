@@ -1,6 +1,7 @@
 # Sore Throat (Tonsillitis)
 
 A sore throat is painful, with the throat often red and swollen. It is either a sign of illness or the result of something in the environment that is irritating your throat. The most common cause is a viral infection. Other causes include bacterial infection, allergic reactions, irritation from smoking, alcohol use, or chemical fumes. Depending on the cause of your sore throat, you may also have:
+
 - Fever.
 - Swelling in your neck glands.
 - A runny nose.
