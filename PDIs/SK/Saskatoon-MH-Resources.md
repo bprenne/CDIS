@@ -2,24 +2,20 @@
 
 ## Mental health crisis:
 
-| Resource | What it provides | Phone number | Website | Hours of operation |
-| :- | :- | :-: | :- | :-: |
-| Mobile Crisis | Urgent or crisis mental health care | 306-933-6200 | https://www.saskatooncrisis.ca/ | 24 hours/day |
-| National Suicide Crisis Helpline | Phone support | 988 | https://988.ca/ | 24 hours/day |
-| 911 Emergency | Emergency medical/safety assistance | 911 | https://www.saskpublicsafety.ca/at-home/sask911-at-home | 24 hours/day |
+- [Mobile Crisis](https://www.saskatooncrisis.ca/): call [306-933-6200](tel:306-933-6200)
+- [National Suicide Crisis Helpline](https://988.ca/): call or text 988
+- Emergency: call 911
 
 ## Mental health counseling and support:
 
-| Resource | What it provides | Phone number | Website | Hours of operation |
-| :- | :- | :-: | :- | :-: |
-| Mental Health Services Centralized Intake | Counseling and support services | 306-655-7777 | https://mhas.saskatoonhealthregion.ca/ | Monday to Friday, 8am-5pm |
-
-- List of other mental health services: https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/mental-health-support/mental-health-services
+- [Mental Health Services Centralized Intake](https://mhas.saskatoonhealthregion.ca/): call 306-655-7777 (Monday to Friday, 8am-5pm)
+- [Link to list of other mental health services](https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/mental-health-support/mental-health-services)
 
 ## Financial support, health concerns, and general resources:
 
-| Resource | What it provides | Phone number | Website | Hours of operation |
-| :- | :- | :-: | :- | :-: |
-| Social Services Income Assistance | Financial support | 866-221-5200 | https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis | Mondary to Friday, 8am-5pm |
-| Saskatchewan Health Line | General health concerns | 811 | https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline | 24 hours/day |
-| 211 Saskatchewan | Information on Saskatchewan services | 211 | https://sk.211.ca/ | 24 hours/day |
+- [Social Services Income Assistance](https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis): call 866-221-5200 (Monday to Friday, 8am-5pm)
+    - for financial assistance
+- [Saskatchewan Health Line](https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline): call 811
+    - for general health concerns
+- [211 Saskatchewan](https://sk.211.ca/): call 211
+    - database of over 6000 resources in Saskatchewan
