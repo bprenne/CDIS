@@ -9,13 +9,16 @@
 ## Mental health counseling and support:
 
 - [Mental Health Services Centralized Intake](https://mhas.saskatoonhealthregion.ca/): call [306-655-7777](tel:306-655-7777) (Monday to Friday, 8am-5pm)
-- [Link to list of other mental health services](https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/mental-health-support/mental-health-services)
+- Website with list of other mental health services: [https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/mental-health-support/mental-health-services](https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/mental-health-support/mental-health-services)
 
 ## Financial support, health concerns, and general resources:
 
-- [Social Services Income Assistance](https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis): call [866-221-5200](tel:866-221-5200) (Monday to Friday, 8am-5pm)
+- Social Services Income Assistance: call [866-221-5200](tel:866-221-5200) (Monday to Friday, 8am-5pm)
     - for financial assistance
-- [Saskatchewan Health Line](https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline): call [811](tel:811)
+    - Website: [https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis](https://www.saskatchewan.ca/residents/family-and-social-support/financial-help/saskatchewan-income-support-sis)
+- Saskatchewan Health Line: call [811](tel:811)
     - for general health concerns
-- [211 Saskatchewan](https://sk.211.ca/): call [211](tel:211)
+    - Website: [https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline](https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline)
+- 211 Saskatchewan: call [211](tel:211)
     - database of over 6000 resources in Saskatchewan
+    - Website: [https://sk.211.ca/](https://sk.211.ca/)
