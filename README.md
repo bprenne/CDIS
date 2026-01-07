@@ -30,6 +30,8 @@ We aim to eventually expand our set of languages and instructions, with an event
 
 ## Conditions with Patient Discharge Instructions (PDIs)
 
+Stored in: [PDIs subdirectory](https://github.com/bprenne/CDIS/tree/main/PDIs).
+
 | ICD-10-CA Code | Condition | Drafted? | Reviewed? | Translated? |
 | :-: | :- | :-: | :-: | :-: |
 | `A099` | Gastroenteritis (Stomach Flu) | | | |
