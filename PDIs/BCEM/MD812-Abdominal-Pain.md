@@ -8,8 +8,8 @@ There are many reasons for abdominal pain, not all of which are easily diagnosed
 - Drink clear fluids like water, herbal tea, or clear broth for the first 24 hours. You can also drink decaffeinated sports/electrolyte drinks. Aim for 8 glasses of water a day.
 - Once your pain is gone, eat bland foods (BRAT diet) like bananas, rice, applesauce, and toast. Consider soups/congee, cooked cereals, crackers, and plain baked potatoes.
 - **Try to avoid**:
-  - Spicy foods, bran (too much fiber), candy, or dairy products.
-  - Alcohol, milk, or drinks with caffeine (e.g., coffee, cola, tea, Red Bull, etc.).
+    - Spicy foods, bran (too much fiber), candy, or dairy products.
+    - Alcohol, milk, or drinks with caffeine (e.g., coffee, cola, tea, Red Bull, etc.).
 - Take the medicines the Emergency doctor has recommended you take.
 
 ## Go to the nearest Emergency Department if you have any of the following new issues:
