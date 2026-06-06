@@ -5,9 +5,6 @@
 - Anaphylaxis happens if you eat or touch something you are severely allergic to. Examples are some foods, some medications, insect stings or bites, and latex. Sometimes we can't be sure what caused it.
 - Some symptoms are trouble breathing, swelling in the face or mouth, chest tightness, stomach upset, and fainting. You may only have some of these, and the ones you get can be different each time.
 - If you have anaphylaxis, you must immediately take a medication called epinephrine. Outside of the hospital, this often comes in a pen-shaped container called EpiPen.
-- Videos about anaphylaxis: 
-    - [English video here (about anaphylaxis)](https://www.youtube.com/watch?v=yylncKmAfmI)
-    - [French video here (about anaphylaxis)](https://www.youtube.com/watch?v=iQbRB2Cc_aE)
 
 ## What should I do at home?
 - Get plenty of rest and take any medications the doctor told you to take.
@@ -20,11 +17,8 @@
 - If you are not sure if you should use your EpiPen, use it. It can be life-saving and it is better to be safe.
 - After using your EpiPen, you must go to the Emergency Department right away, even if you are feeling better. You can get much worse and even die, so a doctor needs to monitor you until you are safe. Call 911 or have someone take you. Do not drive yourself.
 - Videos on how to use EpiPen:
-    - [English video here (how to use EpiPen)](https://www.youtube.com/watch?v=vP3BH5hojg4)
-    - [French video here (how to use EpiPen)](https://www.youtube.com/watch?v=J5VRWl4XBHA)
-- Videos on when to use EpiPen:
-    - [English video here (when to use EpiPen)](https://www.youtube.com/watch?v=JKheVFcMvco)
-    - [French video here (when to use EpiPen)](https://www.youtube.com/watch?v=alvxe3g69VM)
+    - [English video here (how to use EpiPen)](https://www.youtube.com/watch?v=L501Sb7y5Kk)
+    - [French video here (how to use EpiPen)](https://www.youtube.com/watch?v=H7cRX18HTN0)
 
 ## When will I feel better?
 - Most people feel better in a few days.
