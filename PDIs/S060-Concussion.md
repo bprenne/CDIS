@@ -29,3 +29,6 @@
 
 ## Learn more about concussion:
 - [Parachute Canada: concussion information](https://parachute.ca/en/injury-topic/concussion/).
+- [United States Centers for Disease Control and Prevention: Mild Traumatic Brain Injury and Concussion:
+Information for Adults](https://www.cdc.gov/traumaticbraininjury/pdf/tbi_patient_instructions-a.pdf).
+- [United States Centers for Disease Control and Prevention: Caring for Your Child’s Concussion](https://www.cdc.gov/traumatic-brain-injury/media/pdfs/2018-cdc_mtbi_discharge-instructions-508.pdf).
