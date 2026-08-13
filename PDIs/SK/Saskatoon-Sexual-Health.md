@@ -4,6 +4,7 @@
 - Services: Sexual health testing, sexual health treatment, sexual health support and education, take-home naloxone, needle-exchange program (fixed site and mobile), substance checking services
 - Phone: 306-655-4620
 - Address: [310 Idylwyld Dr N #101, Saskatoon, SK S7L 0Z2](https://www.google.com/maps/search/?api=1&query=310%20Idylwyld%20Dr%20N%20%23101%2C%20Saskatoon%2C%20SK%20S7L%200Z2)
+- Website: [https://www.saskhealthauthority.ca/facilities-locations/idylwyld-centre](https://www.saskhealthauthority.ca/facilities-locations/idylwyld-centre)
 
 ## Saskatoon Sexual Health
 - Services: Sexual health treatment, pregnancy and Pap testing, early pregnancy options, pre-exposure prophylaxis (PrEP), contraception (including emergency contraception)
