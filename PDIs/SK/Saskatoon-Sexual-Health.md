@@ -9,5 +9,5 @@
 - Services: Sexual health treatment, pregnancy and Pap testing, early pregnancy options, pre-exposure prophylaxis (PrEP), contraception (including emergency contraception)
 - Phone: 306-244-7989
 - Address: [39 23 St E #301A, Saskatoon, SK S7K 0H6](https://www.google.com/maps/search/?api=1&query=39%2023%20St%20E%20%23301A%2C%20Saskatoon%2C%20SK%20S7K%200H6)
-- Email: [hello@saskatoonsh.ca](mailto:hello@saskatoonsh.ca]
+- Email: hello@saskatoonsh.ca
 - Website: [https://saskatoonsexualhealth.ca/](https://saskatoonsexualhealth.ca/)
