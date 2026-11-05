@@ -40,8 +40,8 @@ Stored in: [PDIs subdirectory](https://github.com/bprenne/CDIS/tree/main/PDIs).
 | `G439` | Migraine Headache | | | |
 | `H109` | Conjunctivitis (Pink Eye) | | | |
 | `H669` | Otitis Media (Ear Infection) | | | |
-| `I100` | Hypertension (High Blood Pressure) | ✔️ | | |
-| `I4890` | Atrial Fibrillation (Afib) | ✔️ | | |
+| `I10` | Hypertension (High Blood Pressure) | ✔️ | | |
+| `I489` | Atrial Fibrillation (Afib) | ✔️ | | |
 | `J029` | Pharyngitis (Sore Throat) | ✔️ | | |
 | `J069` | Upper Respiratory Tract Infection (URTI) | ✔️ | | |
 | `J209` | Acute Bronchitis | | | |
